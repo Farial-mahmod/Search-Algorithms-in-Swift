@@ -1,4 +1,4 @@
-// Linear Search implementation in Swift (version 5.8.1)
+// Linear Search algorithm implementation in Swift (version 5.8.1)
 
 import Foundation
 
